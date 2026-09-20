@@ -36,3 +36,9 @@ WESSI is aligned with **UN Sustainable Development Goal 12 — Responsible Consu
 * Integration with robotic waste-sorting infrastructure
 * Expansion of waste categories and classification capabilities
 
+## Project Status
+
+**Work in Progress**
+
+WESSI is currently an early-stage prototype. The project is being developed further toward a more complete and scalable waste segregation system. Future development will focus on improving the detection pipeline, real-time operation, and integration with automated sorting infrastructure.
+
