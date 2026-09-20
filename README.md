@@ -24,6 +24,13 @@ OpenCV
 Streamlit
 Computer Vision
 
+## Responsible AI Guidelines
+
+* **Fairness:** WESSI aims to classify different types of waste consistently without favoring any particular category.
+* **Transparency:** WESSI displays the detected waste category and prediction confidence to make the AI output understandable.
+* **Ethics:** WESSI is designed to support responsible waste segregation and responsible waste management.
+* **Privacy:** WESSI does not require personal or sensitive information for waste classification.
+
 ## Sustainability
 
 WESSI is aligned with **UN Sustainable Development Goal 12 — Responsible Consumption and Production**, particularly the responsible management and reduction of waste.
