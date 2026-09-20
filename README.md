@@ -12,23 +12,17 @@ The current system focuses on AI-based waste detection and classification. Futur
 
 Improper segregation of waste makes recycling and waste processing more difficult and can increase the amount of waste sent to landfills. Manual sorting can also be time-consuming and difficult to scale.
 
-## Proposed Solution
+## AI-Based Solution
 
-WESSI uses computer vision and AI-based object detection to identify different categories of waste from images or camera input. The detected waste can then be classified into appropriate categories to support the segregation process.
+WESSI uses AI-based object detection and computer vision to identify and classify different types of waste. The classification can support the segregation of waste into appropriate categories.
 
-## AI Technology
-
-* Computer Vision
-* Object Detection
-* YOLO
-* Deep Learning
-
-## Technologies
-
-* Python
-* PyTorch
-* OpenCV
-* Streamlit
+## Technologies Used
+Python
+yolo
+PyTorch
+OpenCV
+Streamlit
+Computer Vision
 
 ## Sustainability
 
